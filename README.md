@@ -5,3 +5,7 @@ This is a simple mail server that uses Python's socket function to implement TCP
 ## Run it:
 
 First, run server.py, the IP address and port number will be displayed in the output field. Then change address and port number in client.py to connect to the mail server before running client.py. As long as server.py continues to run, users can log in and check their emails from any computer without worrying about losing their user data.
+
+## Demo
+![image](https://github.com/JTR3267/Socket-Programming/blob/main/demo1.png)
+![image](https://github.com/JTR3267/Socket-Programming/blob/main/demo2.png)
